@@ -1,2 +1,2 @@
-# hello-world-function
+# com.haywoodac.pipeline.functions
 This is just a familiarisation project.
