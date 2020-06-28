@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2268A76C-E74A-4332-99B8-35D270C36549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "com.haywoodac.pipeline.functions", "src\com.haywoodac.pipeline.functions\com.haywoodac.pipeline.functions.csproj", "{BF8A4ED0-582B-41AC-A303-9D04478F9ADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF8A4ED0-582B-41AC-A303-9D04478F9ADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8A4ED0-582B-41AC-A303-9D04478F9ADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8A4ED0-582B-41AC-A303-9D04478F9ADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8A4ED0-582B-41AC-A303-9D04478F9ADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF8A4ED0-582B-41AC-A303-9D04478F9ADD} = {2268A76C-E74A-4332-99B8-35D270C36549}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {816C95FA-2EA6-4D21-ADA1-184A9228157D}
+	EndGlobalSection
+EndGlobal
